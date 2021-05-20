@@ -36,10 +36,10 @@ sections:
       - title: Modern Formats
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Choose from a variety of formats including animated WEBP, which
+          produces a higher quality animation over GIF at a fraction of the
+          size. Static frames are also available.
         actions:
           - label: Learn More
             url: /features
