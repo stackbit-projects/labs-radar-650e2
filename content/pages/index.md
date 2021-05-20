@@ -26,6 +26,9 @@ sections:
         content: >
           Choose from our radar theme or work with us to provide your own
           personalized imagery.
+
+
+          Use optional map layers to enhance or minimize information.
         actions:
           - label: Learn More
             url: /features
