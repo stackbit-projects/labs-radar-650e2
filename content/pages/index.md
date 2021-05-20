@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: 'Weather data, for you'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Get the latest NOAA radar imagery with custom visualizations.
     actions:
       - label: Learn More
         url: /features
