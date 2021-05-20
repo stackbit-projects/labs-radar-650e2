@@ -94,7 +94,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready for personalized imagery?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Sign up now to lock in our introductory rates.
     actions:
       - label: Get Started
         url: /signup
