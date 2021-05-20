@@ -50,10 +50,13 @@ sections:
       - title: 'Fair Pricing, Privacy-first'
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Pricing is billed on a pre-set quota. Change your plan at any time.
+          The first 500 requests / month are not billed.
+
+
+          We value our privacy and so should you. We do not sell customer data
+          and anonymize internal metrics to enhance the service.
         actions:
           - label: Learn More
             url: /features
