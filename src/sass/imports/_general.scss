@@ -2,6 +2,10 @@ html {
   font-size: 112.5%;
 }
 
+.round {
+    border-radius: 100%;
+}
+
 body {
   background: $gray-100;
   color: $gray-600;
