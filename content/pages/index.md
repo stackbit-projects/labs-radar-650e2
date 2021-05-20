@@ -37,7 +37,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Modern Formats
-        image: images/feature2.png
+        image: images/response_anim_mixed.webp
         image_alt: App users welcoming a new member
         content: >
           Choose from a variety of formats including animated WEBP, which
