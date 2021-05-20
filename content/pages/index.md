@@ -23,10 +23,9 @@ sections:
       - title: Personalized Radar
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Choose from our radar theme or work with us to provide your own
+          personalized imagery.
         actions:
           - label: Learn More
             url: /features
