@@ -89,7 +89,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: Radar for Slack
+      - title: Hobby
         subtitle: Updated imagery right in Slack
         price: Starting at $4 / month
         details: >
