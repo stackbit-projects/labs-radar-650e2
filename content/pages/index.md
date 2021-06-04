@@ -72,7 +72,7 @@ sections:
     pricing_plans:
       - title: Free
         subtitle: Real-time live brackground
-        price: $12 / year
+        price: Free
         details: |
           ## Annual Subscription
 
