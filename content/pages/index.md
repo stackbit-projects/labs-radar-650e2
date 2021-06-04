@@ -73,17 +73,10 @@ sections:
       - title: Android Live Wallpaper
         subtitle: Real-time live brackground
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
+        details: |
+          ## Paid
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          $12 / year for auto updating imagery.
         highlight: false
         actions:
           - label: Google Play
