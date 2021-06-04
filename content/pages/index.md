@@ -147,7 +147,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Android Live Wallpaper
         content: >-
           ## Lorem ipsum
 
