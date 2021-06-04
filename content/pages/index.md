@@ -145,13 +145,12 @@ sections:
         actions: []
         type: feature_item
       - title: Radar for Slack
-        content: |
+        content: >
           ## The latest imagery is one slash command away
 
-          Interactive workflow to manage your account's settings
 
-          *   Use your existing subscription
-          *   Share with the team.
+          Use the interactive workflow to manage your account's settings and
+          share imagery with the team.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
