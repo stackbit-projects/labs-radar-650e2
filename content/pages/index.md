@@ -112,7 +112,7 @@ sections:
         type: pricing_plan
       - title: Pro
         subtitle: Build your own app
-        price: Freemium
+        price: $68 / month
         details: |
           ## Free and Paid Plans
 
