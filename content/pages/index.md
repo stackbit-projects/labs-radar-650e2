@@ -142,7 +142,7 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
-  - section_id: apps
+  - section_id: features-apps
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
