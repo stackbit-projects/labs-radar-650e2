@@ -72,7 +72,7 @@ sections:
     pricing_plans:
       - title: Android Live Wallpaper
         subtitle: Real-time live brackground
-        price: lorem-ipsum
+        price: $12 / year
         details: |
           ## Paid
 
