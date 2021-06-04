@@ -74,7 +74,7 @@ sections:
         subtitle: Real-time live brackground
         price: $12 / year
         details: |
-          ## Paid
+          ## Annual Subscription
 
           $12 / year for auto updating imagery.
         highlight: false
