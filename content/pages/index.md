@@ -116,22 +116,7 @@ sections:
         details: |
           ## Free and Paid Plans
 
-          Various plan for API access exist. Contact us to get setup now!
-
-          #### First 500 requests are free
-
-
-
-          *   Basic plan: $4 / month
-              *   Basic map layers
-
-              *   5000 requests / month
-          *   Hobby plan: $12 / month
-
-              *   Optional map layers
-
-              *   10000 requests / month
-          *   Professional: $68 / month
+          *
 
               *   Branding
 
