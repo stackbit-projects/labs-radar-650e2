@@ -97,7 +97,7 @@ sections:
             type: action
         type: pricing_plan
       - title: Radar for Slack
-        subtitle: lorem-ipsum
+        subtitle: Updated imagery right in Slack
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
