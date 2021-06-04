@@ -67,7 +67,7 @@ sections:
             icon_position: right
   - section_id: lorem-ipsum
     title: Pricing
-    subtitle: lorem-ipsum
+    subtitle: Choose the plan that fits your needs
     background: gray
     pricing_plans:
       - title: Android Live Wallpaper
