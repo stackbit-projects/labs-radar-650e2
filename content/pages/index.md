@@ -16,9 +16,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Realtime, personalized radar imagery'
     features:
       - title: Personalized Radar
         image: images/feature1.png
