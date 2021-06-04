@@ -91,7 +91,7 @@ sections:
         type: pricing_plan
       - title: Radar for Slack
         subtitle: Updated imagery right in Slack
-        price: lorem-ipsum
+        price: Starting at $12 / month
         details: >
           ## Free/Paid
 
