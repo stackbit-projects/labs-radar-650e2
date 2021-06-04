@@ -91,7 +91,7 @@ sections:
         type: pricing_plan
       - title: Radar for Slack
         subtitle: Updated imagery right in Slack
-        price: Starting at $12 / month
+        price: Starting at $4 / month
         details: >
           ## Free/Paid
 
