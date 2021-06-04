@@ -110,7 +110,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: API
+      - title: Pro
         subtitle: Build your own app
         price: Freemium
         details: |
