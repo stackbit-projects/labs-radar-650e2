@@ -99,17 +99,12 @@ sections:
       - title: Radar for Slack
         subtitle: Updated imagery right in Slack
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
+        details: >
+          ## Free/Paid
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Free plan includes basic imagery at 1 image every 15 minutes. Unlock
+          premium for $12 / month
         highlight: false
         actions:
           - label: Add to Slack
