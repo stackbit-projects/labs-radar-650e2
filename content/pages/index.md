@@ -112,7 +112,7 @@ sections:
         type: pricing_plan
       - title: API
         subtitle: Build your own app
-        price: lorem-ipsum
+        price: Freemium
         details: >-
           ## Lorem ipsum
 
