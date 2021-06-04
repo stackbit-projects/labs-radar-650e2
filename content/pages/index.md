@@ -127,7 +127,7 @@ sections:
     type: section_pricing
   - section_id: features-apps
     title: Apps
-    subtitle: lorem-ipsum
+    subtitle: Ways we use Radar
     background: gray
     features:
       - title: Android Live Wallpaper
