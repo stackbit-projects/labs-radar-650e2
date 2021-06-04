@@ -111,7 +111,7 @@ sections:
             type: action
         type: pricing_plan
       - title: API
-        subtitle: lorem-ipsum
+        subtitle: Build your own app
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
