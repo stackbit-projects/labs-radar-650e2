@@ -69,9 +69,7 @@ sections:
     type: section_reviews
     background: white
     title: Apps
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Install one of our apps or build your own
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
