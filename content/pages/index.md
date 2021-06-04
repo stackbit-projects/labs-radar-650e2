@@ -112,7 +112,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Add to Slack
             url: '#'
             style: link
             has_icon: false
