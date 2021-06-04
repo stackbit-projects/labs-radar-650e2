@@ -92,12 +92,14 @@ sections:
       - title: Hobby
         subtitle: Updated imagery right in Slack
         price: $4 / month
-        details: >
-          ## Free/Paid
+        details: |
 
 
-          Free plan includes basic imagery at 1 image every 15 minutes. Unlock
-          premium for $12 / month
+          #### First 500 requests are free
+
+          *   Optional map layers
+
+          *   10000 requests / month
         highlight: false
         actions:
           - label: Add to Slack
