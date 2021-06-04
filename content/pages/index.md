@@ -74,9 +74,9 @@ sections:
         subtitle: Real-time live brackground
         price: Free
         details: |
-          ## Annual Subscription
+          ## Get to know Radar
 
-          $12 / year for auto updating imagery.
+          *   500 requests / month
         highlight: false
         actions:
           - label: Google Play
