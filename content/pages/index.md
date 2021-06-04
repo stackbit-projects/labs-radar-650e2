@@ -91,7 +91,7 @@ sections:
         type: pricing_plan
       - title: Hobby
         subtitle: Updated imagery right in Slack
-        price: Starting at $4 / month
+        price: $4 / month
         details: >
           ## Free/Paid
 
