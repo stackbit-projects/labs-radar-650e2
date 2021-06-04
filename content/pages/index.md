@@ -85,7 +85,16 @@ sections:
 
           - dolor sit amet
         highlight: false
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: pricing_plan
     type: section_pricing
   - section_id: lorem-ipsum
