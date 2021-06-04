@@ -74,7 +74,7 @@ sections:
         subtitle: Real-time live brackground
         price: Free
         details: |
-          ## Get to know Radar
+          #### Get to know Radar
 
           *   500 requests / month
         highlight: false
