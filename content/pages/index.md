@@ -114,7 +114,7 @@ sections:
         subtitle: Build your own app
         price: $68 / month
         details: |
-          ## Unlock Full Customization
+          #### Unlock Full Customization
 
           *   Branding
 
