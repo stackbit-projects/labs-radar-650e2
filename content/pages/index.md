@@ -114,13 +114,13 @@ sections:
         subtitle: Build your own app
         price: $68 / month
         details: |
-          ## Free and Paid Plans
+          ## Unlock Full Customization
 
-              *   Branding
+          *   Branding
 
-              *   Custom map styles
+          *   Custom map styles (Provide CartoCSS or consult with our team)
 
-              *   50000 requests / month
+          *   50000 requests / month
         highlight: false
         actions: []
         type: pricing_plan
