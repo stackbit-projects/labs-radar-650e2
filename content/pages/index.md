@@ -150,17 +150,13 @@ sections:
         actions: []
         type: feature_item
       - title: Radar for Slack
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ## The latest imagery is one slash command away
 
+          Interactive workflow to manage your account's settings
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Use your existing subscription
+          *   Share with the team.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
