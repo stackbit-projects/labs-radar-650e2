@@ -164,7 +164,7 @@ sections:
   - section_id: lorem-ipsum
     title: Web
     content: >
-      ## Coming soon!
+      ## Beautiful radar in full resolution glory!
 
 
       Our web app provides the tooling needed to customize your experience and
