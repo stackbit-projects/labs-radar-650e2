@@ -115,7 +115,7 @@ sections:
           - label: Add to Slack
             url: '#'
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-right
             icon_position: left
             new_window: false
