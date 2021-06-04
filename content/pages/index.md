@@ -113,17 +113,28 @@ sections:
       - title: API
         subtitle: Build your own app
         price: Freemium
-        details: >-
-          ## Lorem ipsum
+        details: |
+          ## Free and Paid Plans
 
+          Various plan for API access exist. Contact us to get setup now!
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   First 500 requests are free
+          *   Basic plan: $4 / month
+              *   Basic map layers
 
+              *   5000 requests / month
+          *   Hobby plan: $12 / month
 
-          - Lorem ipsum
+              *   Optional map layers
 
-          - dolor sit amet
+              *   10000 requests / month
+          *   Professional: $68 / month
+
+              *   Branding
+
+              *   Custom map styles
+
+              *   50000 requests / month
         highlight: false
         actions: []
         type: pricing_plan
