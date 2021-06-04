@@ -93,9 +93,11 @@ sections:
         subtitle: Updated imagery right in Slack
         price: $4 / month
         details: |
-          #### First 500 requests are free
+          #### Enter Personalized Radar
 
           *   Optional map layers (roads, admin labels)
+
+          *   Radar themes
 
           *   10000 requests / month
         highlight: false
