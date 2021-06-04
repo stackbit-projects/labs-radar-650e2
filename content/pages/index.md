@@ -70,7 +70,7 @@ sections:
     subtitle: Choose the plan that fits your needs
     background: gray
     pricing_plans:
-      - title: Android Live Wallpaper
+      - title: Free
         subtitle: Real-time live brackground
         price: $12 / year
         details: |
