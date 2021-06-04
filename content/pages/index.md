@@ -136,7 +136,7 @@ sections:
     features:
       - title: Android Live Wallpaper
         content: >
-          ### Looping radar in your pocket
+          ## Looping radar in your pocket
 
 
           Our unique live wallpaper uses your current location to provide
