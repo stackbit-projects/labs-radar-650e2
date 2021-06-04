@@ -118,7 +118,10 @@ sections:
 
           Various plan for API access exist. Contact us to get setup now!
 
-          *   First 500 requests are free
+          #### First 500 requests are free
+
+
+
           *   Basic plan: $4 / month
               *   Basic map layers
 
