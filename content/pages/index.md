@@ -162,7 +162,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
+      - title: Radar for Slack
         content: >-
           ## Lorem ipsum
 
