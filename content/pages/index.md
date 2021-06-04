@@ -86,7 +86,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Google Play
             url: '#'
             style: link
             has_icon: false
