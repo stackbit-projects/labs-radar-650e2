@@ -71,7 +71,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Android Live Wallpaper
-        subtitle: lorem-ipsum
+        subtitle: Real-time live brackground
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
