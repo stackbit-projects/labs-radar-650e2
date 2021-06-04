@@ -118,6 +118,8 @@ sections:
         details: |
           #### Unlock Full Customization
 
+          *   \+ Everything in Hobby
+
           *   Branding
 
           *   Custom map styles (Provide CartoCSS or consult with our team)
