@@ -135,17 +135,12 @@ sections:
     background: gray
     features:
       - title: Android Live Wallpaper
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Looping radar in your pocket
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Our unique live wallpaper uses your current location to provide
+          realtime loops of weather conditions in your area.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
