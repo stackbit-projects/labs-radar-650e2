@@ -70,7 +70,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: Android Live Wallpaper
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
