@@ -93,11 +93,9 @@ sections:
         subtitle: Updated imagery right in Slack
         price: $4 / month
         details: |
-
-
           #### First 500 requests are free
 
-          *   Optional map layers
+          *   Optional map layers (roads, admin labels)
 
           *   10000 requests / month
         highlight: false
