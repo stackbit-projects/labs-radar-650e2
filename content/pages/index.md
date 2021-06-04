@@ -167,17 +167,19 @@ sections:
     type: section_features
   - section_id: lorem-ipsum
     title: Web
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Coming soon!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Our web app provides the tooling needed to customize your experience and
+      to view up to date imagery.
 
 
-      - Lorem ipsum
+      *   Rard style editor
 
-      - dolor sit amet
+      *   Themes
+
+      *   Map themes
     image_alt: lorem-ipsum
     background: gray
     actions: []
