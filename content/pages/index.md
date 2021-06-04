@@ -70,7 +70,7 @@ sections:
     subtitle: Choose the plan that fits your needs
     background: gray
     pricing_plans:
-      - title: Free
+      - title: Starter
         subtitle: Real-time live brackground
         price: Free
         details: |
