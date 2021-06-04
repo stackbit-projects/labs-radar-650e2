@@ -116,8 +116,6 @@ sections:
         details: |
           ## Free and Paid Plans
 
-          *
-
               *   Branding
 
               *   Custom map styles
