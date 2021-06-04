@@ -66,7 +66,7 @@ sections:
             icon: arrow-right
             icon_position: right
   - section_id: lorem-ipsum
-    title: Apps
+    title: Pricing
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
