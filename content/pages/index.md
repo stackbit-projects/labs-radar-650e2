@@ -172,7 +172,7 @@ sections:
       to view up to date imagery.
 
 
-      *   Rard style editor
+      *   Radar style editor
 
       *   Themes
 
