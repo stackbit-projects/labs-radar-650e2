@@ -120,7 +120,7 @@ sections:
 
           *   Branding
 
-          *   Custom map styles (Provide CartoCSS or consult with our team)
+          *   Custom map styles
 
           *   100,000 requests / month
         highlight: false
