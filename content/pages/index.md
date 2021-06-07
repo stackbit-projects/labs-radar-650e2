@@ -100,7 +100,7 @@ sections:
           *   10,000 requests / month
         highlight: false
         actions:
-          - label: Add to Slack
+          - label: Sign Up
             url: '#'
             style: link
             has_icon: true
