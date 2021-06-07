@@ -77,7 +77,7 @@ sections:
           *   500 requests / month
         highlight: false
         actions:
-          - label: Google Play
+          - label: Start for Free
             url: '#'
             style: link
             has_icon: true
