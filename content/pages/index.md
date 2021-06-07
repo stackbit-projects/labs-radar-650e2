@@ -78,7 +78,7 @@ sections:
         highlight: false
         actions:
           - label: Start for Free
-            url: '/signup#free'
+            url: /signup?plan=free
             style: link
             has_icon: true
             icon: arrow-right
