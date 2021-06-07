@@ -68,7 +68,7 @@ sections:
     subtitle: Choose the plan that fits your needs
     background: gray
     pricing_plans:
-      - title: Starter
+      - title: Hobby
         subtitle: Real-time live brackground
         price: Free
         details: |
