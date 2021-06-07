@@ -126,7 +126,7 @@ sections:
         highlight: false
         actions:
           - label: Sign Up
-            url: '#'
+            url: /signup?plan=pro
             style: link
             has_icon: true
             icon: arrow-right
