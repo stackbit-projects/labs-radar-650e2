@@ -122,7 +122,7 @@ sections:
 
           *   Custom map styles (Provide CartoCSS or consult with our team)
 
-          *   50000 requests / month
+          *   100,000 requests / month
         highlight: false
         actions: []
         type: pricing_plan
