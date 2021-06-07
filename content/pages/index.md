@@ -125,7 +125,7 @@ sections:
           *   100,000 requests / month
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Sign Up
             url: '#'
             style: link
             has_icon: false
