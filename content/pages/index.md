@@ -138,7 +138,7 @@ sections:
     type: section_pricing
   - section_id: features-apps
     title: Apps
-    subtitle: Ways we use Radar
+    subtitle: Ways to use Radar
     background: gray
     features:
       - title: Android Live Wallpaper
