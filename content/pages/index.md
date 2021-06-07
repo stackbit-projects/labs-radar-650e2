@@ -97,7 +97,7 @@ sections:
 
           *   Radar themes
 
-          *   10000 requests / month
+          *   10,000 requests / month
         highlight: false
         actions:
           - label: Add to Slack
