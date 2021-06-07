@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/response_cwebp.webp
     image_alt: App preview
     title: 'Weather data, for you'
     content: |
