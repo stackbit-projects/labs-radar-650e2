@@ -19,7 +19,7 @@ sections:
     subtitle: 'Realtime, personalized radar imagery'
     features:
       - title: Personalized Radar
-        image: images/feature1.png
+        image: images/royal-amaranth.webp
         image_alt: App preview on a phone and tablet
         content: >
           Choose from our radar theme or work with us to provide your own
