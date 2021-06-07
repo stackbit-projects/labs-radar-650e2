@@ -48,7 +48,6 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 'Fair Pricing, Privacy-first'
-        image: images/feature3.png
         image_alt: App user profile preview
         content: >
           Pricing is billed on a pre-set quota. Change your plan at any time.
