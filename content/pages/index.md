@@ -148,6 +148,9 @@ sections:
 
           Our unique live wallpaper uses your current location to provide
           realtime loops of weather conditions in your area.
+
+
+          $12 / year
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
