@@ -158,6 +158,9 @@ sections:
 
           Use the interactive workflow to manage your account's settings and
           share imagery with the team.
+
+
+          Free to get started.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
