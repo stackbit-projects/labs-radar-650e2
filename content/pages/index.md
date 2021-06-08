@@ -153,7 +153,7 @@ sections:
         type: feature_item
       - title: Radar for Slack
         content: >
-          ## The latest imagery is one slash command away
+          ### The latest imagery is one slash command away
 
 
           Use the interactive workflow to manage your account's settings and
