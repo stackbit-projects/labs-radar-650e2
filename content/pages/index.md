@@ -207,7 +207,7 @@ seo:
       value: Radar Love by Fount
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Personalized radar imagery
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
