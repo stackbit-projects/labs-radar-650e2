@@ -197,7 +197,7 @@ sections:
         url: /signup
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
+  title: Radar Love
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
