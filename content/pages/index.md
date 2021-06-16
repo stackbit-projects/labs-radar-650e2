@@ -197,7 +197,7 @@ sections:
         url: /signup
         style: primary
 seo:
-  title: Radar Love
+  title: Radar Love by Fount
   description: Personalized radar
   extra:
     - name: 'og:type'
