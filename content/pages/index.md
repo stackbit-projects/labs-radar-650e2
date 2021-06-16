@@ -198,7 +198,7 @@ sections:
         style: primary
 seo:
   title: Radar Love
-  description: The preview of the Azimuth theme
+  description: Personalized Radar
   extra:
     - name: 'og:type'
       value: website
