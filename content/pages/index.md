@@ -212,7 +212,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Radar Love by Fount
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
 layout: landing
