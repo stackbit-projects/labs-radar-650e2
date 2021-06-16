@@ -215,5 +215,9 @@ seo:
       value: Radar Love by Fount
     - name: 'twitter:description'
       value: Personalized radar imagery
+    - name: 'og:image'
+      value: /_static/app-assets/maroon-planet.webp
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---
