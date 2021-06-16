@@ -214,6 +214,6 @@ seo:
     - name: 'twitter:title'
       value: Radar Love by Fount
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Personalized radar imagery
 layout: landing
 ---
