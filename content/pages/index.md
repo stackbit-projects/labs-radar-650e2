@@ -198,7 +198,7 @@ sections:
         style: primary
 seo:
   title: Radar Love by Fount
-  description: Personalized radar
+  description: Personalized radar imagery
   extra:
     - name: 'og:type'
       value: website
