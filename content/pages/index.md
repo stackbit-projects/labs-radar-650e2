@@ -74,8 +74,8 @@ sections:
         details: |
           #### Get to know Radar
 
-          *   500 requests / month
           *   Standard map layer
+          *   500 requests / month
         highlight: false
         actions:
           - label: Start for Free
