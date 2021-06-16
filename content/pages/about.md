@@ -1,7 +1,6 @@
 ---
 title: About Us
 subtitle: Radar Love is a labs product by Fount
-image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
   title: About Us
