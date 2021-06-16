@@ -198,7 +198,7 @@ sections:
         style: primary
 seo:
   title: Radar Love
-  description: Personalized Radar
+  description: Personalized radar
   extra:
     - name: 'og:type'
       value: website
