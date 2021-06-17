@@ -2,7 +2,7 @@
     "title": "Radar Love",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "fount",
     "header": {
         "logo_img": "images/smiling-spider.png",
         "logo_img_alt": "Logo",
