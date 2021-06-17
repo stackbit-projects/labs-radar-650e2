@@ -81,7 +81,7 @@
                 "title": "Connect",
                 "nav_links": [
                     {
-                        "label": "@fount",
+                        "label": "Twitter",
                         "url": "https://twitter.com/fount",
                         "style": "link",
                         "has_icon": true,
