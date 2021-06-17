@@ -83,7 +83,7 @@ sections:
         actions:
           - label: Start for Free
             url: /signup?plan=free
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
