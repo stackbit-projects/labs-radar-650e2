@@ -155,7 +155,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: Radar for Slack
+      - title: Radar Love for Slack
         content: >
           #### The latest imagery is one slash command away
 
