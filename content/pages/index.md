@@ -216,7 +216,7 @@ seo:
     - name: 'twitter:description'
       value: Personalized radar imagery
     - name: 'og:image'
-      value: /_static/app-assets/maroon-planet.webp
+      value: /_static/app-assets/Artboard@2x.png
       keyName: property
       relativeUrl: true
 layout: landing
