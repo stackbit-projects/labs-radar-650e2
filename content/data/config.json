@@ -51,7 +51,6 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/smiling-spider.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"
