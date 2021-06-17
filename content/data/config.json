@@ -53,7 +53,7 @@
                 "type": "footer_text",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "# Radar Love\n\nRadar Love is a labs product by [Fount](https://www.fountstudio.com). \n"
             },
             {
                 "type": "footer_nav",
