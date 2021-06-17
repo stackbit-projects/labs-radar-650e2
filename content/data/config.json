@@ -124,7 +124,7 @@
                     {
                         "input_type": "text",
                         "name": "lastName",
-                        "label": "lorem-ipsum",
+                        "label": "Last Name",
                         "default_value": "lorem-ipsum",
                         "options": [],
                         "is_required": false,
