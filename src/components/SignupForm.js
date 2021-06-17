@@ -2,12 +2,7 @@ import React from 'react'
 
 export default function SignupForm() {
     return (<React.Fragment>
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
+
 <div id="mc_embed_signup">
 <form action="https://fountstudio.us19.list-manage.com/subscribe/post?u=20d26e4e3b210d9ae8b4fdc7d&amp;id=f561e19e52" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
