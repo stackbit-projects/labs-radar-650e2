@@ -20,5 +20,6 @@ export default function SignupForm() {
 </form>
 </div>
 
-<!--End mc_embed_signup-->)
+<!--End mc_embed_signup-->
+)
 }
