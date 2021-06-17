@@ -35,7 +35,6 @@ class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>
                 {this.helmetHeadComponents}
-                {/* <ScriptTag id="mcjs" src={withPrefix('js/mc.js')}/> */}
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
