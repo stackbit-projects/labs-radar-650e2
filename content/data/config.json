@@ -125,7 +125,7 @@
                         "input_type": "text",
                         "name": "lastName",
                         "label": "Last Name",
-                        "default_value": "lorem-ipsum",
+                        "default_value": "Last Name (optional)",
                         "options": [],
                         "is_required": false,
                         "type": "form_field"
