@@ -170,7 +170,7 @@ sections:
         type: feature_item
     type: section_features
   - section_id: lorem-ipsum
-    title: Web
+    title: Radar Love Web
     content: >
       #### Beautiful radar in full resolution glory!
 
