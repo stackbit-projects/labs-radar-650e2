@@ -39,7 +39,6 @@ class MyDocument extends Document {
                     <ScriptTag src={withPrefix('js/plugins.js')}/>
                     <ScriptTag src={withPrefix('js/init.js')}/>
                     <ScriptTag src={withPrefix('js/main.js')}/>
-                    <ScriptTag id="mcjs" src={withPrefix('js/mc.js')}/>
                     <NextScript />
                 </body>
             </Html>
