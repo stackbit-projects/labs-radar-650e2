@@ -106,7 +106,7 @@ sections:
         actions:
           - label: Sign Up
             url: /signup?plan=hobby
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
