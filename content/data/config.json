@@ -53,7 +53,7 @@
                 "type": "footer_text",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "# Radar Love\n\nRadar Love is a labs product by [Fount](https://www.fountstudio.com). \n"
+                "content": "## Radar Love\n\nRadar Love is a labs product by [Fount](https://www.fountstudio.com).\n"
             },
             {
                 "type": "footer_nav",
