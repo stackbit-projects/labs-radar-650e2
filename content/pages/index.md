@@ -13,7 +13,7 @@ sections:
       **Lets beautify imagery.**
     actions:
       - label: Learn More
-        url: /features
+        url: '#features'
         style: primary
   - section_id: features
     type: section_features
