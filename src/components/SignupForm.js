@@ -21,5 +21,5 @@ export default function SignupForm() {
 </div>
 
 
-)
+</React.Fragment>)
 }
