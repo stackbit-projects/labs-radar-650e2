@@ -81,7 +81,7 @@
                 "title": "Community",
                 "nav_links": [
                     {
-                        "label": "Twitter",
+                        "label": "@fount",
                         "url": "https://twitter.com/fount",
                         "style": "link",
                         "has_icon": true,
