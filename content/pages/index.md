@@ -63,7 +63,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: lorem-ipsum
+  - section_id: pricing
     title: Pricing
     subtitle: Choose the plan that fits your needs
     background: gray
