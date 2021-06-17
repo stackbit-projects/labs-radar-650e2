@@ -15,12 +15,12 @@
             },
             {
                 "label": "Features",
-                "url": "#features",
+                "url": "/#features",
                 "style": "link"
             },
             {
                 "label": "Pricing",
-                "url": "#pricing",
+                "url": "/#pricing",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
