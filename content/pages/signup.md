@@ -1,7 +1,6 @@
 ---
 title: Sign Up
 subtitle: Radar Love is in private beta
-image: images/11.jpg
 image_alt: Office desk top view
 seo:
   title: Sign Up
