@@ -4,7 +4,7 @@
     "base_font": "nunito-sans",
     "palette": "fount",
     "header": {
-        "logo_img": "images/Logo Horizontal@2x.png",
+        "logo_img": "images/energetic-spider.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
