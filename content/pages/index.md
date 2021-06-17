@@ -163,7 +163,7 @@ sections:
           #### The latest imagery is one slash command away
 
 
-          *In Development*
+          *(Under Development)*
 
 
           Use the interactive workflow to manage your account's settings and
