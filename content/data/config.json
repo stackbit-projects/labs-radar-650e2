@@ -101,7 +101,7 @@
             {
                 "type": "footer_form",
                 "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Sign up for beta access and stay up to date with our latest developments.\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
