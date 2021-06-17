@@ -102,7 +102,7 @@ sections:
           *   Radar themes
 
           *   10,000 requests / month
-        highlight: false
+        highlight: true
         actions:
           - label: Sign Up
             url: /signup?plan=hobby
