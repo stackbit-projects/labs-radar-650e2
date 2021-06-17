@@ -176,18 +176,20 @@ sections:
   - section_id: lorem-ipsum
     title: Radar Love Web
     content: >
-      #### Beautiful radar in full resolution glory!
+      #### Beautiful radar on desktop and mobile
 
 
       Our web app provides the tooling needed to customize your experience and
       to view up to date imagery.
 
 
-      *   Radar style editor
+      Radar style editor
 
-      *   Themes
 
-      *   Map themes
+      Themes
+
+
+      Map themes
     image_alt: lorem-ipsum
     background: gray
     actions: []
