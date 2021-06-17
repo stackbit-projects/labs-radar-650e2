@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: Radar Love
+    title: Personalized
     content: >
       Get the latest NOAA radar imagery with custom visualizations. It's not the
       90s anymore. 
