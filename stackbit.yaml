@@ -46,6 +46,7 @@ models:
           - green
           - orange
           - purple
+          - fount
         default: blue
         required: true
       - type: enum
