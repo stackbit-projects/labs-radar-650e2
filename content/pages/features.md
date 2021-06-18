@@ -1,8 +1,8 @@
 ---
 title: Features
 sections:
-    - section_id: features
-        type: section_features
+  - section_id: features
+    type: section_features
     background: gray
     title: Features
     subtitle: 'Realtime, personalized radar imagery'
