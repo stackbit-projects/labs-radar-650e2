@@ -39,6 +39,9 @@ sections:
           size. Static frames are also available.
 
 
+          #### 85% savings on a single frame
+
+
           ![](/\_static/app-assets/Graph%20Savings.webp)
         actions: []
       - title: 'Fair Pricing, Privacy-first'
