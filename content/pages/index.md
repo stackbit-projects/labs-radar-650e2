@@ -47,13 +47,7 @@ sections:
 
           We value our privacy and so should you. We do not sell customer data
           and anonymize internal metrics to enhance the service.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: pricing
     title: Pricing
     subtitle: Choose the plan that fits your needs
