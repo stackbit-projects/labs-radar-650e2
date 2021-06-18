@@ -37,13 +37,7 @@ sections:
           Choose from a variety of formats including animated WEBP, which
           produces a higher quality animation over GIF at a fraction of the
           size. Static frames are also available.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: 'Fair Pricing, Privacy-first'
         image_alt: App user profile preview
         content: >
