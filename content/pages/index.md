@@ -37,6 +37,9 @@ sections:
           Choose from a variety of formats including animated WEBP, which
           produces a higher quality animation over GIF at a fraction of the
           size. Static frames are also available.
+
+
+          ![](/\_static/app-assets/Graph%20Savings.webp)
         actions: []
       - title: 'Fair Pricing, Privacy-first'
         image_alt: App user profile preview
