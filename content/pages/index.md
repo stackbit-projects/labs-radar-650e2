@@ -29,13 +29,7 @@ sections:
 
 
           Use optional map layers to enhance or minimize information.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Modern Formats
         image: images/response_anim_mixed.webp
         image_alt: App users welcoming a new member
