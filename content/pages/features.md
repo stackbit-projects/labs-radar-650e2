@@ -1,7 +1,7 @@
 ---
 title: Features
 sections:
-- section_id: features
+    - section_id: features
     type: section_features
     background: gray
     title: Features
